@@ -16,7 +16,7 @@
         "ext-gd": "*",
         "ext-mbstring": "*",
         "ext-soap": "*",
-        "php": "^7.0"
+        "php": "^8.0"
     },
     "platform-dev": []
 }
